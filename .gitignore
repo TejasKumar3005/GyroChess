@@ -1,0 +1,44 @@
+﻿# Binaries / build
+*.exe
+*.o
+*.out
+*.a
+*.so
+*.dylib
+bin/
+build/
+dist/
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+.DS_Store
+.vscode/
+*.zip
+
+# Model weights / large data
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.joblib
+*.dat
+*.pickle
+nltk_data/
+data/
+*.wav
+*.mp3
+*.gif
+*.webp
+
+# Logs / temp
+*.log
+o.txt
+p.txt
+out.txt
+t.txt
+we.txt
+x.txt
+include/
+web/node_modules/
